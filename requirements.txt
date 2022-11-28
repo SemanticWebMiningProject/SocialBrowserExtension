@@ -1,0 +1,10 @@
+requests
+bs4
+numpy
+spacy
+flask
+sklearn
+google
+urllib3
+pandas
+nltk
